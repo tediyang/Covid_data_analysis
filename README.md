@@ -1,6 +1,6 @@
 # # Covid-19-data-analysis-from-Dec-2019-to-June-2020
 
-# Analysis showing charts and data gotten from 156 countries affeacted worldwide.
+# Analysis showing charts and data gotten from 156 countries affected worldwide.
 
 | Tool  |                |
 | ------------- |:-------------:|
